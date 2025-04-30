@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/product-registry.clar"
 depends_on = []
 
+[contracts.verification-engine]
+path = "contracts/verification-engine.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
