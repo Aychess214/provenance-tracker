@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.ownership-transfer]
+path = "contracts/ownership-transfer.clar"
+depends_on = []
+
 [contracts.product-registry]
 path = "contracts/product-registry.clar"
 depends_on = []
